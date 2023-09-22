@@ -33,7 +33,7 @@ const generateShortUrl = () => {
   const shortId = generateShortId();
 
   // Create the short URL based on your domain
-  const shortUrl = `https://your-domain.com/${shortId}`; // Replace 'your-domain.com' with your actual domain
+  const shortUrl = `https://incomparable-k.app/${shortId}`; // Replace 'your-domain.com' with your actual domain
 
   return shortUrl;
 };
